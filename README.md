@@ -1,14 +1,7 @@
-# Python-supervised-learning-fraud-pred
 
-# UNIGAP - PORTFOLIO BUILDING MODULE - SQL/ PYTHON PROJECT
-
-🔥Use this template as an outline for your SQL/ Python Github projects - which is task by task type of projects. 
-Make a copy of this readme file and tailor it your own. Happy portfolio-ing and start applying aggressively :"))
-
----
 ![fraud-detection](https://github.com/user-attachments/assets/4ba73ba0-d258-4dac-a3eb-804efe6b603d)
 
-# 📊 Project Title: [Your Project Name]  
+# 📊 Project Title: Credit Card Fraud Detection Using Machine Learning
 Author: [Tri Nguyen](https://www.linkedin.com/in/chilamviec/) <br> 
 Date: YYYY-MM-DD  
 Tools Used: Python notebook
